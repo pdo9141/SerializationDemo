@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryAndSoapConsoleApp", "BinaryAndSoapConsoleApp\BinaryAndSoapConsoleApp.csproj", "{513FC8D9-3D63-462C-A6E2-2134F404B50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlConsoleApp", "XmlConsoleApp\XmlConsoleApp.csproj", "{024010A8-EBDB-48B1-A3B4-2A806E8DEBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513FC8D9-3D63-462C-A6E2-2134F404B50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513FC8D9-3D63-462C-A6E2-2134F404B50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513FC8D9-3D63-462C-A6E2-2134F404B50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513FC8D9-3D63-462C-A6E2-2134F404B50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024010A8-EBDB-48B1-A3B4-2A806E8DEBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024010A8-EBDB-48B1-A3B4-2A806E8DEBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024010A8-EBDB-48B1-A3B4-2A806E8DEBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024010A8-EBDB-48B1-A3B4-2A806E8DEBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
